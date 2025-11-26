@@ -6,7 +6,9 @@
 - Monitors Windows 11 PC for inactivity
 ------------
 # How to use the activity_monitor
-- In a terminal - Run:>\ python activity_monitor.py
+- In a terminal - Run
+  C:>\activity_monitor\python activity_monitor.py
+
 
 
 
